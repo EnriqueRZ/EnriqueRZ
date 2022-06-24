@@ -7,4 +7,6 @@
 I AM A SOFTWARE DEVELOPER, I WANT TO LEARN AND IMPROVE MY SKILLS IN THE WORLD OF PROGRAMMING.
 INTERESTED IN OPEN TECHNOLOGIES, TEAMWORK AND CONTINUOUS LEARNING.
 
-- 🌱 I’m currently learning Vue.js and ReactNative.js
+- :grin: Currently exploring Golang and Rust world
+
+- 🌱 I’m learning Vue.js and ReactNative.js
